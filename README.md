@@ -1,4 +1,4 @@
-# variables and config
+# Variables and Config
 export REGION=us-central1
 export ZONE=us-central1-f
 export PROJECT='sam-gcp-learn'
