@@ -83,4 +83,5 @@ gcloud functions deploy trigger_dag --runtime python37 --trigger-bucket sam-gcp-
 
 
 
-## References: Google Cloud Documentation
+## References:
+1. Google Cloud Documentation
