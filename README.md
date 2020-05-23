@@ -80,3 +80,7 @@ gcloud iam service-accounts add-iam-policy-binding \
 gcloud functions deploy trigger_dag --runtime python37 --trigger-bucket sam-gcp-input
 
 # place the file in input bucket to trigger the cloud fucntion 
+
+
+
+## References: Google Cloud Documentation
